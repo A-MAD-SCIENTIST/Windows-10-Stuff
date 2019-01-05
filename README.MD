@@ -2,7 +2,7 @@
 
 Ok, most Windows 10 'scripts' are actually non-gui friendly PowerShell scripts, which requires the user to input code.
 
-An .exe was created to simplify  things :)
+A GUI was created to simplify things :)
 
 A quick scan on the .exe via VirusToal shows  [this](https://www.virustotal.com/#/file/4044065d1c0823dc5f6b1733298de8b96a1ce128cbd26dc2df6ad60ecf816c81/detection).
 
