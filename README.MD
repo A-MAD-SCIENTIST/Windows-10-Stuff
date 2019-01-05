@@ -1,13 +1,13 @@
 ## Remove Windows 10 Bloatware!
 
-OK, there are either a .PS1 script or an .exe to do this. For some reason the .exe is coming up as [malware](https://www.virustotal.com/#/file/025e6da5ba200a136c1cc9f3df3921294bcfb183292ef067d6ddfe23d2e19b72/detection).
+Ok, most Windows 10 'scripts' are actually non-gui friendly PowerShell scripts, which requires the user to input code.
 
-This is quite confusing as when updating the .PS1 script, then compiling the script into an .exe via POWERSHELL! My A/V classed it as malware. LOL 
+An .exe was created to simplify  things :)
 
-Update: Found fix for .exe, fix incoming soon
+A quick scan on the .exe via VirusToal shows  [this](https://www.virustotal.com/#/file/4044065d1c0823dc5f6b1733298de8b96a1ce128cbd26dc2df6ad60ecf816c81/detection).
 
-My only guess at this moment is because the Windows 10 script requires access to the Registry to delete / blacklist reg entries for bloat apps. The .PS1 script cannot complete this, so I had updated the .exe to force Administrator privileges. 
+This is a false positive, if you receive/find this .exe from anywhere but here, it is certainly malware.
 
-The .exe is clean but anyhow, I have uploaded the .PS1 script as well incase anyone is paranoid :)
+Don't mind the gui options / icon, it was for laughs/giggles when we were drunk one evening :)
 
-If you download the .PS1 script, just extract to somewhere like the desktop and right-click, 'Run with PowerShell'.
+I will try to keep this updated for newer stable feature releases of Windows 10.
