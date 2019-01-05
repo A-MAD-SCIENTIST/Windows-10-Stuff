@@ -4,7 +4,7 @@ OK, there are either a .PS1 script or an .exe to do this. For some reason the .e
 
 This is quite confusing as when updating the .PS1 script, then compiled the script into an .exe via POWERSHELL! My A/V classed it as malware.
 
-My only guess at this moment is because the Windows 10 script requires access to the Registry to delete / blacklist reg entries for bloat apps.
+My only guess at this moment is because the Windows 10 script requires access to the Registry to delete / blacklist reg entries for bloat apps. The .PS1 script cannot complete this, so I had updated the .exe to force Administrator privileges. 
 
 The .exe is clean but anyhow, I have uploaded the .PS1 script as well incase anyone is paranoid :)
 
