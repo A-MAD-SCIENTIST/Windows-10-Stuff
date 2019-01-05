@@ -2,7 +2,9 @@
 
 OK, there are either a .PS1 script or an .exe to do this. For some reason the .exe is coming up as [malware](https://www.virustotal.com/#/file/025e6da5ba200a136c1cc9f3df3921294bcfb183292ef067d6ddfe23d2e19b72/detection).
 
-This is quite confusing as when updating the .PS1 script, then compiling the script into an .exe via POWERSHELL! My A/V classed it as malware. LOL
+This is quite confusing as when updating the .PS1 script, then compiling the script into an .exe via POWERSHELL! My A/V classed it as malware. LOL 
+
+Update: Found fix for .exe, fix incoming soon
 
 My only guess at this moment is because the Windows 10 script requires access to the Registry to delete / blacklist reg entries for bloat apps. The .PS1 script cannot complete this, so I had updated the .exe to force Administrator privileges. 
 
