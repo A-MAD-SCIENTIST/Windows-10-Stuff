@@ -1,4 +1,4 @@
-## Remove Windows 10 Bloatware! (Supported upto version 17763.195 (1809)
+## Remove Windows 10 Bloatware! (Supported upto version 17763.253 (1809)
 
 Ok, most Windows 10 'scripts' are actually non-gui friendly PowerShell scripts, which requires the user to input code.
 
