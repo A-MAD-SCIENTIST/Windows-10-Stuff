@@ -21,6 +21,12 @@ Changelog:
 29/01/19
 
 ‣ Fixes, inc people's icon on taskbar.
+
+
 ‣ Added more apps to white-list options
+
+
 ‣ Extract log details to Temp Dir instead of APPDATA 
+
+
 ‣ Enforced Group Policy options :)
