@@ -15,3 +15,11 @@ I will try to keep this updated for newer stable feature releases of Windows 10.
 
 Oh btw, old version of .exe, was a noob. and forgot to sort some compile settings [out](https://www.virustotal.com/#/file/025e6da5ba200a136c1cc9f3df3921294bcfb183292ef067d6ddfe23d2e19b72/detection). yeah I messed up on some compile settings xD
 
+
+Changelog:
+
+29/01/19
+
+‣ Fixes, inc people's icon on taskbar.
+‣ Added more apps to white-list options
+‣ Enforced Group Policy options :)
