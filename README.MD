@@ -16,19 +16,29 @@ Changelog:
 04/06/19
 
 Created Windows 10 Pro 1903 Iso with hardly any bloatware.
-‣ Everything removed except from Windows Defender, OneDrive, Connect, Edge and some built in Admin tools. These can be uninstalled later.
-‣ Slipstreamed CU/Security updates from May 2019
-‣ Installed .netframework 3.5
+Everything removed except:
+
+• Windows Defender
+
+• OneDrive
+
+• Connect
+
+• Edge and some built in Admin tools. These can be uninstalled later.
+
+• Slipstreamed CU/Security updates from May 2019
+
+• Installed .netframework 3.5
 
 29/01/19
 
-‣ Fixes, inc people's icon on taskbar.
+• Fixes, inc people's icon on taskbar.
 
 
-‣ Added more apps to white-list options
+• Added more apps to white-list options
 
 
-‣ Extract log details to Temp Dir instead of APPDATA 
+• Extract log details to Temp Dir instead of APPDATA 
 
 
-‣ Enforced Group Policy options :)
+• Enforced Group Policy options :)
